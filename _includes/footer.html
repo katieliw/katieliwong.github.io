@@ -1,0 +1,13 @@
+<!-- Footer -->
+<div id="footer">
+  
+  <!-- Copyright -->
+  <ul class="copyright">
+    {% if site.title or site.author %}
+      <li>&copy; {{- site.title | default: site.author -}}. All rights reserved.</li>
+    {% endif %}
+    <li>LinkedIn: <a href="{{- site.linkedin_url -}}" class="icon-b fa-linkedin-in"><span class="label"></span></a></li>
+    <li>Email: <a href="mailto:{{- site.email -}}" class="icon fa-envelope"><span class="label">Email</span></a></li>
+  </ul>
+  
+</div>

@@ -1,0 +1,23 @@
+---
+---
+
+
+.timeline {
+	position: relative;
+	max-width: 1200 px;
+	margin: 0 auto;
+}
+
+.vertical-timeline-block {
+	background-color: white;
+}
+
+img.timeline-block-pic {
+	height: 10%;
+	width: 10%;
+	display: inline;
+}
+
+.left {
+	position: absolute;
+}
