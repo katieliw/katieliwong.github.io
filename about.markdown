@@ -13,19 +13,19 @@ If you've found yourself here then perhaps you'd like to know just a bit more ab
 - movies
 - travelling
 - running
-- exploring (vague, I know, but you can ask me for clarification by reaching out!)
+- exploring (vague, I know, but you can reach out for clarification!)
 ```
-I really like fashion because I do think it's a way to express yourself and I'm always looking for new inspiration. I find that if you look good, you feel good, as shallow as that may sound. But if you feel good, I think it's a boost in self-confidence which can't be a bad thing - at least in moderation.
+I really like **fashion** because I do think it's a way to express yourself and I'm always looking for new inspiration. I find that if you look good, you feel good, as shallow as that may sound. But if you feel good, I think it's a boost in self-confidence which can't be a bad thing - at least in moderation.
 
-I have yet to find a hike that I liked better and that felt more rewarding than hiking Garibaldi Lake with my sister several years ago. The view at the top was just absolutely breathtaking and made the hike totally worth it. BC is **the** best place to live if you enjoy being outdoors, I swear and there are just so many more hikes and places in general left in the province for me to explore! (The background photo at the top of my homepage was actually taken there - as was the one below this paragraph.)
+I have yet to find a **hike** that I liked better and that felt more rewarding than hiking **Garibaldi Lake** with my sister several years ago. The view at the top was just absolutely breathtaking and made the hike totally worth it. BC is **the** best place to live if you enjoy being outdoors, I swear, and there are just so many more hikes and places in general left in the province for me to explore! (The background photo at the top of my [homepage](katieliw.github.io) was actually taken there - as was the one below this paragraph.)
 
 ![alt text](/assets/images/garibaldi.jpg "Garibaldi Lake View")
 
 My favourite show is **Brooklyn Nine-Nine**, but I've also (binge) watched tons of others like Game of Thrones, Breaking Bad, You, The Vampire Diaries, Modern Family, Grey's Anatomy, Flashpoint, The 100 - some of which are better than others... Some started out great and then went downhill, but often times, I finished the series anyway just because I'd made it so far already.
 
-I honestly haven't been to that many places but I do want to visit more countries and do more travelling. At the very least, I'm happy that I can say I went on a month-long trip across Canada, visiting most provinces and making it as far east as Halifax. I find that I learn things travelling that I wouldn't otherwise. The most different place to North America that I've been to so far is China and it was so fascinating just to see how different everything is there. I hope to tick more places off my bucket list. (Seeing the Northern Lights has been at the top of my list for as long as I can remember so maybe I'll tackle that sometime soon.)
+I honestly haven't been to too many places but I do want to visit more countries and do more **travelling**. At the very least, I'm happy that I can say I went on a month-long trip across Canada, visiting most provinces and making it as far east as Halifax. I find that I learn things travelling that I wouldn't otherwise. The most different place to North America that I've been to so far is China, and it was so fascinating just to see how different everything is there. I hope to tick more places off my bucket list in the future. (Seeing the Northern Lights has been at the top of my list for as long as I can remember so maybe I'll tackle that sometime soon.)
 
-There's always more to learn about someone (and yourself) but that's all I'll say about myself for now.
+There's always more to learn about someone (and yourself) but that's all I'll say about me for now.
 
 ***
 Here are more places where you can find me on the Internet (and/or contact me):
