@@ -17,7 +17,7 @@ If you've found yourself here then perhaps you'd like to know just a bit more ab
 ```
 I really like **fashion** because I do think it's a way to express yourself and I'm always looking for new inspiration. I find that if you look good, you feel good, as shallow as that may sound. But if you feel good, I think it's a boost in self-confidence which can't be a bad thing - at least in moderation.
 
-I have yet to find a **hike** that I liked better and that felt more rewarding than hiking **Garibaldi Lake** with my sister several years ago. The view at the top was just absolutely breathtaking and made the hike totally worth it. BC is **the** best place to live if you enjoy being outdoors, I swear, and there are just so many more hikes and places in general left in the province for me to explore! (The background photo at the top of my [homepage](katieliw.github.io) was actually taken there - as was the one below this paragraph.)
+I have yet to find a **hike** that I liked better and that felt more rewarding than hiking **Garibaldi Lake** with my sister several years ago. The view at the top was just absolutely breathtaking and made the hike totally worth it. BC is **the** best place to live if you enjoy being outdoors, I swear, and there are just so many more hikes and places in general left in the province for me to explore! (The background photo at the top of my homepage was actually taken there - as was the one below this paragraph.)
 
 ![alt text](/assets/images/garibaldi.jpg "Garibaldi Lake View")
 
@@ -32,7 +32,7 @@ Here are more places where you can find me on the Internet (and/or contact me):
 
 LinkedIn: <a href="{{- site.linkedin_url -}}" class="icon-b fa-linkedin-in"> Katie Li-Wong<span class="label"></span></a> || Facebook: <a href="https://www.facebook.com/katliwong" class="icon-b fa-facebook-f"> Katie Li-Wong<span class="label">Katie Li-Wong</span></a> || 
 
-Email: <a href="mailto:{{- site.email -}}" class="icon fa-envelope"> katieliwong@hotmail.com<span class="label">Email</span></a>
+Email: <a href="mailto:{{- site.email -}}" class="icon fa-envelope"> katieliwong@hotmail.com<span class="label">Email</span></a> 
 
 
 Feel free to **reach out** if you have any questions or if you'd like to know more! :) Always happy to meet new people and open to new opportunities.
