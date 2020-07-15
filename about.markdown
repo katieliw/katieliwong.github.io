@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: More
+permalink: /more/
 order: 2
 --- 
 
@@ -11,6 +11,7 @@ If you've found yourself here then perhaps you'd like to know just a bit more ab
 - hiking (I mean, I live in BC after all)
 - tv shows (more on this later..)
 - movies
+- travelling
 - running
 - exploring (vague, I know, but you can ask me for clarification by reaching out!)
 ```
@@ -22,12 +23,14 @@ I have yet to find a hike that I liked better and that felt more rewarding than 
 
 My favourite show is **Brooklyn Nine-Nine**, but I've also (binge) watched tons of others like Game of Thrones, Breaking Bad, You, The Vampire Diaries, Modern Family, Grey's Anatomy, Flashpoint, The 100 - some of which are better than others... Some started out great and then went downhill, but often times, I finished the series anyway just because I'd made it so far already.
 
+I honestly haven't been to that many places but I do want to visit more countries and do more travelling. At the very least, I'm happy that I can say I went on a month-long trip across Canada, visiting most provinces and making it as far east as Halifax. I find that I learn things travelling that I wouldn't otherwise. The most different place to North America that I've been to so far is China and it was so fascinating just to see how different everything is there. I hope to tick more places off my bucket list. (Seeing the Northern Lights has been at the top of my list for as long as I can remember so maybe I'll tackle that sometime soon.)
+
 There's always more to learn about someone (and yourself) but that's all I'll say about myself for now.
 
 ***
-Here are more places where you can find me on the Internet:
+Here are more places where you can find me on the Internet (and/or contact me):
 
-LinkedIn: <a href="{{- site.linkedin_url -}}" class="icon-b fa-linkedin-in"> Katie Li-Wong<span class="label"></span></a> || Facebook: <a href="https://www.facebook.com/katliwong" class="icon-b fa-facebook-f"> Katie Li-Wong<span class="label">Katie Li-Wong</span></a>
+LinkedIn: <a href="{{- site.linkedin_url -}}" class="icon-b fa-linkedin-in"> Katie Li-Wong<span class="label"></span></a> || Facebook: <a href="https://www.facebook.com/katliwong" class="icon-b fa-facebook-f"> Katie Li-Wong<span class="label">Katie Li-Wong</span></a> || Email: <a href="mailto:{{- site.email -}}" class="icon fa-envelope"> katieliwong@hotmail.com<span class="label">Email</span></a>
 
 
-Feel free to reach out if you have any questions or if you'd like to know more! :) Always happy to meet new people and open to new opportunities.
+Feel free to **reach out** if you have any questions or if you'd like to know more! :) Always happy to meet new people and open to new opportunities.
