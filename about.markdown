@@ -30,7 +30,9 @@ There's always more to learn about someone (and yourself) but that's all I'll sa
 ***
 Here are more places where you can find me on the Internet (and/or contact me):
 
-LinkedIn: <a href="{{- site.linkedin_url -}}" class="icon-b fa-linkedin-in"> Katie Li-Wong<span class="label"></span></a> || Facebook: <a href="https://www.facebook.com/katliwong" class="icon-b fa-facebook-f"> Katie Li-Wong<span class="label">Katie Li-Wong</span></a> || Email: <a href="mailto:{{- site.email -}}" class="icon fa-envelope"> katieliwong@hotmail.com<span class="label">Email</span></a>
+LinkedIn: <a href="{{- site.linkedin_url -}}" class="icon-b fa-linkedin-in"> Katie Li-Wong<span class="label"></span></a> || Facebook: <a href="https://www.facebook.com/katliwong" class="icon-b fa-facebook-f"> Katie Li-Wong<span class="label">Katie Li-Wong</span></a> || 
+
+Email: <a href="mailto:{{- site.email -}}" class="icon fa-envelope"> katieliwong@hotmail.com<span class="label">Email</span></a>
 
 
 Feel free to **reach out** if you have any questions or if you'd like to know more! :) Always happy to meet new people and open to new opportunities.
